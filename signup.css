@@ -1,0 +1,28 @@
+input {
+    margin-bottom: 10px;
+    border-radius: 30px;
+}
+
+button {
+    margin-top: 20px;
+    background-color: blue;
+}
+
+.email {
+    background-color: blanchedalmond;
+    padding: 10px;
+}
+
+div {
+    display: flex;
+}
+
+label {
+    display: inline-block;
+    text-align: right;
+    width: 240px;
+}
+
+body {
+    background-color: red;
+}
